@@ -12,6 +12,6 @@ This project aims to predict and classify Chronic Kidney Disease (CKD) stages us
 1. Install dependencies:
    ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn```
-2.Open the notebook
+2. Open the notebook
 ```bash
    jupyter notebook CKD.ipynb```
